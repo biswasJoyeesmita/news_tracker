@@ -39,7 +39,7 @@ every day is a waste of time. This does it for you.
 ## Project Structure
 ---
 
-## ⚙️ Setup
+## Setup
 
 ### 1. Clone the repository
 ```bash
@@ -88,7 +88,7 @@ every day at your scheduled time. Press `Ctrl+C` to stop.
 
 ---
 
-## 📊 Sample Data
+## Sample Data
 
 > Each article also includes a direct link to the original source.
 
@@ -102,7 +102,7 @@ every day at your scheduled time. Press `Ctrl+C` to stop.
 
 ---
 
-## 🔍 How It Works
+## How It Works
 
 1. Reads keywords from `config.py`
 2. Builds a Google News RSS URL for each keyword
@@ -114,7 +114,7 @@ every day at your scheduled time. Press `Ctrl+C` to stop.
 
 ---
 
-## 📝 Notes
+## Notes
 
 - Google News RSS returns approximately 100 articles per keyword
 - Article links are Google News redirect URLs that forward 
@@ -126,7 +126,7 @@ every day at your scheduled time. Press `Ctrl+C` to stop.
 
 ---
 
-## 🔮 Planned Improvements
+## Planned Improvements
 
 - [ ] Sentiment analysis on headlines using TextBlob
 - [ ] Daily email digest of new articles
@@ -136,7 +136,7 @@ every day at your scheduled time. Press `Ctrl+C` to stop.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Joyeesmita Biswas**  
 [GitHub](https://github.com/biswasJoyeesmita) • 
