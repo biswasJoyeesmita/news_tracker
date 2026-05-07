@@ -140,4 +140,4 @@ every day at your scheduled time. Press `Ctrl+C` to stop.
 
 **Joyeesmita Biswas**  
 [GitHub](https://github.com/biswasJoyeesmita) • 
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+[LinkedIn](https://www.linkedin.com/in/joyeesmita-biswas-451a3a37a)
