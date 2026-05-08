@@ -95,9 +95,7 @@ every day at your scheduled time. Press `Ctrl+C` to stop.
 | title | source | date | keyword | scraped_at |
 |---|---|---|---|---|
 | White House Considers Vetting A.I. Models Before They Are Released |The New York Times | Mon, 04 May 2026 22:37:30 GMT | Artificial Intelligence | 2026-05-05 22:08:13 |
-
 | Edinburgh AI firm develops machine learning tool to accelerate woodland monitoring | Inside Ecology | Mon, 04 May 2026 22:37:30 GMT | Machine Learning | 2026-05-05 22:08:13 |
-
 | Virtual Reality - Meaning, Types, Applications, Benefits | Vajiram & Ravi | Wed, 07 Jan 2026 08:00:00 GMT | virtual reality | 2026-05-07 22:27:52 |
 
 ---
